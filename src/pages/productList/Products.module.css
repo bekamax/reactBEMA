@@ -1,0 +1,12 @@
+.blockCard {
+  width: 90%;
+  padding-top:  15vh;
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* justify-content: flex-start; */
+}
+.blockBrand {
+  margin-top: 15vh;
+}

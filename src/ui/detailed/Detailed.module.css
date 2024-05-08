@@ -1,0 +1,24 @@
+.detailed {
+  width: 80%;
+  display: flex;
+  padding-top: 15vh;
+  margin: auto;
+}
+.img {
+  width: 600px;
+  height: 660px;
+}
+.detailed_left{
+    padding-left:  15vh;
+    margin-top: 5vh;
+}
+.detailed_left p{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.blockQuantity {
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blue; */
+}

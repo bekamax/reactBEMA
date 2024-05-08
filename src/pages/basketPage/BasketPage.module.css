@@ -1,0 +1,21 @@
+.basketPage {
+    padding-top: 15vh;
+    /* background-color: red; */
+    width: 80%;
+    margin: auto;
+}
+.basketTitleBig {
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 0;
+}
+.basketTitleSmall {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+.subtotal {
+    display: flex;
+    justify-content: end;
+    padding-top: 5vh;
+}

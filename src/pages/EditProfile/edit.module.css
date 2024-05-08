@@ -1,0 +1,26 @@
+.editpage {
+  padding-top: 15vh;
+}
+.editpage form {
+  width: 30vw;
+  height: 55vh;
+  background-color: #e8e6e6;
+  padding: 25px;
+  margin: 50px auto;
+}
+.btn {
+  display: flex;
+  /* margin: auto; */
+  flex-direction: column;
+}
+.btn {
+  text-align: center;
+}
+.btn a {
+  padding: 5px;
+  text-decoration: none;
+}
+.editpage input {
+  margin: 10px 0px;
+  background-color: none;
+}

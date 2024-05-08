@@ -1,0 +1,36 @@
+.navbar {
+  width: 100%;
+  background-color: #ffff;
+  align-content: space-between;
+  height: 15vh;
+  gap: 0px;
+  position: fixed;
+}
+.cont {
+  max-width: 98%;
+  margin: auto;
+}
+.nav_top {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+.nav_top h1 {
+  font-size: 24px;
+}
+.nav_bottom {
+  max-width: 72%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+}
+.nav_bottom a {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+.nav_top a {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}

@@ -1,0 +1,29 @@
+.productDetail {
+    display: flex;
+    justify-content: space-between;
+}
+.product {
+  width: 23%;
+  display: flex;
+  /* justify-content: space-between; */
+  padding: 3vh 0;
+}
+.product img {
+  width: 100px;
+  height: 130px;
+  margin-right: 3vh;
+}
+.productInfo p {
+  padding-top: 2vh;
+}
+.quantity {
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+.productDetailRight {
+    width: 38%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
